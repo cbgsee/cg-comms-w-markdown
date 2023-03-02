@@ -6,7 +6,7 @@
 
 ```
 #%% Section break in the Spyder environment
-def myfun(x)
+def myfun(x):
   return x**4
 ```
 
